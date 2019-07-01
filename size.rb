@@ -7,7 +7,7 @@ def size(words)
     mas.sort!
 
     puts "Min: #{mas[0]}"
-    puts "Max #{mas[-1]}"
+    puts "Max: #{mas[-1]}"
     puts "Total: #{mas[0] + mas[-1]}"
 
 end
